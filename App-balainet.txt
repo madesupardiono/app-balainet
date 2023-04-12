@@ -1,3 +1,4 @@
 konsep aplikasi
 - platform terintegrasi
 - login sampai halaman forum
+- logout
